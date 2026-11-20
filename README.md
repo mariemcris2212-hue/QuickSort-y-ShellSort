@@ -7,7 +7,7 @@
 ---
 
 ## Descripción
-Implementación en Java de los algoritmos de ordenamiento **QuickSort** (esquema de partición de Lomuto) y **ShellSort** (reducción de intervalos por mitades), desarrollada como parte de la práctica de la Unidad 5[cite: 1, 2, 4].
+Implementación en Java de los algoritmos de ordenamiento **QuickSort** (esquema de partición de Lomuto) y **ShellSort** (reducción de intervalos por mitades), desarrollada como parte de la práctica de la Unidad 5.
 
 ---
 
